@@ -111,11 +111,6 @@ that make them ideal for practicing data cleaning, preprocessing, and model buil
    - Create visualizations
    - Briefly summarize your findings
 
-4. Save your figures into the correct `content/figures/` subfolder **inside Colab**.
-
-   > ⚠️ Important: If your Colab session idles too long, it may restart. \
-   >  You will need to re-upload your dataset and re-run your notebook before saving figures again.
-
 The notebooks provide structure and guidance but leave the implementation up to you. \
 This is intentional - you'll learn more by working through the problems yourself.
 
@@ -125,8 +120,11 @@ Once you have completed your notebook:
 
 1. **Download your notebook and figures** from Google Colab
 
-   - `File → Download → Download .ipynb`
-   - Download `figures_dataset#.zip` from the left side pane
+> ⚠️ Important: If your Colab session idles too long, it may restart. \
+>  You will need to re-upload your dataset and re-run your notebook before saving figures.
+
+- `File → Download → Download .ipynb`
+- Download `figures_dataset#.zip` from the left side pane
 
 2. **Upload your completed notebook here:**
 
